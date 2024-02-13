@@ -7,8 +7,8 @@ let breakTittle = document.getElementById('break');
 
 let progressValue = 0;
 
-let workTime = 2;
-let breakTime = 1;
+let workTime = 25;
+let breakTime = 5;
 
 let seconds = "00"
 
